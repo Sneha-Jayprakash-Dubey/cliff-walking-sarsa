@@ -68,8 +68,10 @@ cliff_walking_sarsa/
 ```
 
 I have also implemented this problem using Q‑learning, which is generally considered a better approach for CliffWalking since it learns the optimal policy (off‑policy).
+
 👉 Check out the Q‑learning implementation here:
 
+https://github.com/Sneha-Jayprakash-Dubey/cliff_qlearning_rl_project
 
 📈 Learning Outcomes :
 
